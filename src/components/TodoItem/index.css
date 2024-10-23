@@ -1,0 +1,25 @@
+.todolist {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+}
+.todotitle {
+  font-family: 'roboto';
+  font-size: 15px;
+  color: #000000;
+  font-weight: bold;
+}
+.deletebutton {
+  width: 100px;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  height: 30px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+}

@@ -1,0 +1,25 @@
+.bgContainer {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ffffff;
+  width: 80%;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #ff8542;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 30px;
+}
+.todoscontainer{
+  width:80%;
+}
